@@ -1,0 +1,14 @@
+pyrogram
+tgcrypto
+requests
+pyromod
+ffmpeg
+mediainfo
+cloudscraper
+beautifulsoup4
+bs4
+yt-dlp
+pycryptodome
+psutil
+helper
+python-dotenv
